@@ -53,4 +53,4 @@ async def ping(ctx):
 
 
 #Dont Reveal
-client.run('ODgxODk3MzQ3MzQzMzMxMzk5.YSzg6A.RdqblXKpR3zceAp7BJcAhi6uT_8')
+client.run('Your token here')
